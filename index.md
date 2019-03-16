@@ -16,17 +16,15 @@
   b{
     font-size: 20px;
     font-family: monospace;
-    background-color: #7fffd4;
+    background-color: ;
   }
     div { 
-      background-color: pink; 
+      background-color: ; 
     }
     p{
-      background-color:#FF88C2;
+      background-color:;
     } 
 </style>
-
-<body background="https://tse1.mm.bing.net/th?id=OIP.zDyhyfM6XxT9W7H1FZdLUAAAAA&pid=15.1&P=0&w=300&h=300">
 
 <h2 class="brown-text">2017年台灣手機品牌年度排名</h2>
 <main>
@@ -99,3 +97,4 @@ HTC</label> <br>
     <label><input type="checkbox" name="brand">  
     OPPO</label><br></b>
     <button type="submit">Submit</button>
+
