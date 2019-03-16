@@ -1,17 +1,32 @@
+
 <style>
   .smaller-image {
     width: 100px;
   }
   .brown-text {
     color: brown;
-   h2 {
-    font-family: Lobster, monospace;
+  }
+  h2{
+    background-color: #ffffe0;
   }
   a {
     font-size: 16px;
     font-family: monospace;
   }
+  b{
+    font-size: 20px;
+    font-family: monospace;
+    background-color: #7fffd4;
+  }
+    div { 
+      background-color: pink; 
+    }
+    p{
+      background-color:#FF88C2;
+    } 
 </style>
+
+<body background="https://tse1.mm.bing.net/th?id=OIP.zDyhyfM6XxT9W7H1FZdLUAAAAA&pid=15.1&P=0&w=300&h=300">
 
 <h2 class="brown-text">2017年台灣手機品牌年度排名</h2>
 <main>
@@ -72,3 +87,15 @@
 </ul>
 </div>
 
+<b> Which brand do you like the most?<br>
+    <label><input type="checkbox" name="brand"> 
+    APPLE</label><br>
+    <label><input type="checkbox" name="brand"> 
+SAMSUNG</label><br>
+    <label><input type="checkbox" name="brand">
+ASUS</label><br>
+    <label><input type="checkbox" name="brand">
+HTC</label> <br>
+    <label><input type="checkbox" name="brand">  
+    OPPO</label><br></b>
+    <button type="submit">Submit</button>
